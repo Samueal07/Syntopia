@@ -1,34 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Syntopia - Beautifully Animated Landing Page
+![s1](https://github.com/Samueal07/Syntopia/assets/99087302/fe7dd9d2-a907-45bc-acab-cde6f307714f)
+
+
+Syntopia is a beautifully animated landing page that combines stunning Framer Motion animations, responsive design, and a clean user interface to create an immersive and engaging experience for visitors.
+
+![s2](https://github.com/Samueal07/Syntopia/assets/99087302/1d322870-d32c-460a-b0e4-b159ed919f21)
+
+
+## Features
+
+- **Framer Motion Animations:** Syntopia leverages the power of Framer Motion to bring your landing page to life with smooth and captivating animations.
+
+- **Responsive Design:** The landing page is designed to look and function seamlessly on a variety of devices, including desktops, tablets, and mobile phones.
+
+- **Clean Aesthetics:** Syntopia's minimalist and clutter-free design ensures a pleasant and distraction-free browsing experience.
+
+- **Customizable:** Easily customize the content, images, and animations to fit your branding and messaging.
+
+  
+![s3](https://github.com/Samueal07/Syntopia/assets/99087302/beecc45d-4c1d-4427-976f-351153768a6a)
+
+## Technology used
+-Next-JS
+-Framer-Motion
+-Tailwind
 
 ## Getting Started
 
-First, run the development server:
+To get started with Syntopia, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+1. Clone the repository to your local machine:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   ```bash
+   git clone https://github.com/yourusername/syntopia-landing-page.git
